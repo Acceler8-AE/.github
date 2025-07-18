@@ -1,4 +1,14 @@
+<!-- Keywords: Business Consulting, UAE, Web Development, Mobile Apps, NEXORA, NEXORA IT Agency, Acceler8, Market Research, Digital Transformation, IT Agency, Business Growth -->
+
 # 👋 Welcome to Acceler8 GitHub!
+
+> Business Consultancy | Tech-Driven Growth | Based in the UAE
+
+![Location: UAE](https://img.shields.io/badge/Location-UAE-blue)
+![Business Consultancy](https://img.shields.io/badge/Services-Business_Consulting-brightgreen)
+![Powered by NEXORA](https://img.shields.io/badge/IT%20Partner-NEXORA-purple)
+
+---
 
 **Acceler8** – Empowering Businesses, Accelerating Success.
 
@@ -11,10 +21,10 @@
 ## 🚀 What We Do
 
 We specialize in:
-- Business Strategy & Growth  
-- Financial Consulting  
-- Market Research & Feasibility Studies  
-- Digital Transformation  
+- ✅ Business Strategy & Growth  
+- ✅ Financial Consulting  
+- ✅ Market Research & Feasibility Studies  
+- ✅ Digital Transformation  
 
 > For all IT-related services, check out our **dedicated technology partner – [NEXORA](https://nexora.acceler8-ae.com)**.
 
@@ -25,11 +35,11 @@ We specialize in:
 What started as **Acceler8’s IT Department** has now evolved into a fully independent IT agency: **[NEXORA](https://nexora.acceler8-ae.com)**
 
 🔧 Powered by the same core team, **NEXORA** delivers:
-- Full-stack Web Development  
-- Mobile App Development  
-- Business Automation Tools  
-- Internal Dashboards & Platforms  
-- Cloud Integrations & Custom Solutions  
+- ✅ Full-stack Web Development  
+- ✅ Mobile App Development  
+- ✅ Business Automation Tools  
+- ✅ Internal Dashboards & Platforms  
+- ✅ Cloud Integrations & Custom Solutions  
 
 > **Smart. Scalable. Secure.**  
 We build the systems that move businesses forward.
@@ -64,6 +74,7 @@ For business inquiries and consulting:
     <img src="/assets/full-logo-white-resized.png" width="550px" alt="NEXORA IT Agency"/>
   </a>
 </p>
+
 
 <p align="center">
     <a href="#" target="_blank">
