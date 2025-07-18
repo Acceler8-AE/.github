@@ -11,41 +11,57 @@
 ## 🚀 What We Do
 
 We specialize in:
-- Business Strategy & Growth
-- Financial Consulting
-- Market Research & Feasibility Studies
-- Digital Transformation
+- Business Strategy & Growth  
+- Financial Consulting  
+- Market Research & Feasibility Studies  
+- Digital Transformation  
 
-Our IT department supports all our initiatives through custom software solutions, websites, automation, and internal tools that enhance our productivity and client services.
-
----
-
-## 🖥️ About Our IT Department
-
-Our **IT Department** is the tech powerhouse behind Acceler8’s success.  
-We focus on:
-- Full-stack web development
-- Internal platforms & dashboards
-- Automation of business processes
-- Cloud-based solutions & integrations
-
-> **We build smart, scalable, and secure systems that move business forward.**
-
-💼 Projects available here showcase tools, systems, and public-facing code samples developed by our talented team.
+> For all IT-related services, check out our **dedicated technology partner – [NEXORA](https://nexora.acceler8-ae.com)**.
 
 ---
 
-## 📬 Contact Our IT Department
+## 🖥️ About NEXORA – Our Tech Powerhouse
 
-Have a tech-related inquiry or collaboration idea?
+What started as **Acceler8’s IT Department** has now evolved into a fully independent IT agency: **[NEXORA](https://nexora.acceler8-ae.com)**
 
-📧 Email us: **it-admin@acceler8-ae.com**  
-📍 Subject Line: `Attention: IT Department`  
-🔗 Or message via [LinkedIn](https://www.linkedin.com/company/acceler8-ae/)
+🔧 Powered by the same core team, **NEXORA** delivers:
+- Full-stack Web Development  
+- Mobile App Development  
+- Business Automation Tools  
+- Internal Dashboards & Platforms  
+- Cloud Integrations & Custom Solutions  
 
-We’d love to hear from fellow developers, clients, or curious minds 🚀
+> **Smart. Scalable. Secure.**  
+We build the systems that move businesses forward.
 
-> Thank you for visiting. Stay tuned for more open-source tools and updates from our team!
+🌐 Visit NEXORA: [nexora.acceler8-ae.com](https://nexora.acceler8-ae.com)  
+📩 Email: **info@nexora.acceler8-ae.com**  
+📱 Instagram: [@nexora_agency.ae](https://www.instagram.com/nexora_agency.ae/)  
+🔗 LinkedIn: [NEXORA on LinkedIn](https://www.linkedin.com/company/nexora-agency-ae/about/)
+
 ---
 
-![Snake animation](../assets/github-contribution-grid-snake.svg)
+## 📬 Contact Acceler8
+
+For business inquiries and consulting:  
+📧 Email us: **info@acceler8-ae.com**  
+🔗 Website: [acceler8-ae.com](https://acceler8-ae.com)
+
+---
+
+## 🧠 Powered by NEXORA
+
+> Innovation meets execution.
+
+<p align="center">
+  <img src="/assets/Acceler8-LOGO.svg" width="150px" alt="Powered by Acceler8"/>
+</p>
+
+<p align="center">
+  <img src="/assets/full-logo-white-resized.png" width="550px" alt="Nexora IT Agency"/>
+</p>
+
+
+<p align="center">
+  <img src="/assets/github-contribution-grid-snake.svg"/>
+</p>
