@@ -54,14 +54,19 @@ For business inquiries and consulting:
 > Innovation meets execution.
 
 <p align="center">
-  <img src="/assets/Acceler8-LOGO.svg" width="150px" alt="Powered by Acceler8"/>
+  <a href="https://acceler8-ae.com" target="_blank">
+    <img src="/assets/Acceler8-LOGO.svg" width="150px" alt="Powered by Acceler8"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="/assets/full-logo-white-resized.png" width="550px" alt="Nexora IT Agency"/>
+  <a href="https://nexora.acceler8-ae.com" target="_blank">
+    <img src="/assets/full-logo-white-resized.png" width="550px" alt="NEXORA IT Agency"/>
+  </a>
 </p>
 
-
 <p align="center">
+    <a href="#" target="_blank">
   <img src="/assets/github-contribution-grid-snake.svg"/>
+        </a>
 </p>
